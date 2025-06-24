@@ -27,3 +27,6 @@ just like the classic **Simon Says** game.
 - **JavaScript** – Game logic and interactivity
 
 ---
+## 📷 Preview
+
+![Preview](screenshot.png)
