@@ -6,7 +6,7 @@ just like the classic **Simon Says** game.
 
 ## 🔗 Live Demo
 
-> [Click to Play the Game](https://vaibhavshukla-codes.github.io/SimonSayGame/)  
+> [Click to Play the Game](https://simon-say-game-one.vercel.app/)
 
 
 ---
